@@ -1,6 +1,7 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=800&color=252A2E&width=610&weight=600&lines=Marina-Diana+Lungu+%7C+Junior+Frontend+Developer" alt="Marina-Diana Lungu | Junior Frontend Developer" />
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=800&color=252A2E&center=true&vCenter=true&width=602&weight=600&lines=Marina-Diana+Lungu+%7C+Junior+Frontend+Developer" alt="Marina-Diana Lungu | Junior Frontend Developer" 
+  />
 </div>
 
 <div align="center">
