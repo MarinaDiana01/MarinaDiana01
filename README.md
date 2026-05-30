@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=23&pause=800&color=21262B&center=true&vCenter=true&width=800&weight=500&lines=Marina-Diana+Lungu+%7C+Junior+Frontend+Developer" alt="Marina-Diana Lungu | Junior Frontend Developer" /> 
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=800&color=252A2E&width=610&weight=600&lines=Marina-Diana+Lungu+%7C+Junior+Frontend+Developer" alt="Marina-Diana Lungu | Junior Frontend Developer" />
+</div>
+
+<div align="center">
   <img src="assets/images/typing-animation.gif" width="330" alt="Typing animation"/>
 </div>
 
@@ -31,7 +35,7 @@ Junior Frontend Developer focused on building mobile-first, responsive and user-
 
 <table>
   <tr>
-    <td width="40%">
+    <td width="43%">
       <a href="https://shoe-store-ecommerce.netlify.app">
         <img src="assets/images/shoe-store-preview.png" alt="Shoe Store Preview"/>
       </a>
@@ -42,13 +46,10 @@ Junior Frontend Developer focused on building mobile-first, responsive and user-
       </h3>
 <div>
 
-⮞ eCommerce shoe store with dynamic data using API
-
-⮞ Search, sorting, and cart management functionality
-
-⮞ Responsive design optimized for all screen sizes
-
-⮞ Product status indicators for New Arrivals and Sale items
+- eCommerce shoe store with dynamic data using API
+- Search, sorting, and cart management functionality
+- Responsive design optimized for all screen sizes
+- Product status indicators for New Arrivals and Sale items
 
 </div>
 <div>
@@ -74,7 +75,7 @@ Junior Frontend Developer focused on building mobile-first, responsive and user-
 <tr><td colspan="2"><br></td></tr>
 
 <tr>
-  <td width="40%">
+  <td width="43%">
     <a href="https://project-space-tourism.netlify.app">
       <img src="assets/images/space-tourism-preview.png" alt="Space Tourism Preview"/>
     </a>
@@ -85,13 +86,10 @@ Junior Frontend Developer focused on building mobile-first, responsive and user-
     </h3>
 <div>
 
-⮞ The project involved building a complex website dedicated to exploring outer space
-
-⮞ Identified and fixed navigation issues between site pages by reconfiguring routes
-
-⮞ Responsive across all devices
-
-⮞ Upcoming features include star maps and an events calendar
+- The project involved building a complex website dedicated to exploring outer space
+- Identified and fixed navigation issues between site pages by reconfiguring routes
+- Responsive across all devices
+- Upcoming features include star maps and an events calendar
 
 </div>
 <div>
@@ -117,7 +115,7 @@ Junior Frontend Developer focused on building mobile-first, responsive and user-
 <tr><td colspan="2"><br></td></tr>
 
 <tr>
-  <td width="40%">
+  <td width="43%">
     <a href="https://project-billing-app.netlify.app">
       <img src="assets/images/billing-app-preview.png" alt="Billing App Preview" />
     </a>
@@ -128,13 +126,10 @@ Junior Frontend Developer focused on building mobile-first, responsive and user-
     </h3>
 <div>
 
-⮞ Interactive tip calculator
-
-⮞ Calculates the total bill including tip based on the selected percentage and number of people
-
-⮞ Extended functionality with two additional sections: statistics and history
-
-⮞ Fully responsive interface
+- Interactive tip calculator
+- Calculates the total bill including tip based on the selected percentage and number of people
+- Extended functionality with two additional sections: statistics and history
+- Fully responsive interface
 
 </div>
 <div>
@@ -160,7 +155,7 @@ Junior Frontend Developer focused on building mobile-first, responsive and user-
 <tr><td colspan="2"><br></td></tr>
   
 <tr>
-  <td width="40%">
+  <td width="43%">
     <a href="https://project-advice-slip.netlify.app">
       <img src="assets/images/advice-slip-preview.png" alt="Advice Slip Preview"/>
     </a>
@@ -171,13 +166,10 @@ Junior Frontend Developer focused on building mobile-first, responsive and user-
     </h3> 
 <div>
 
-⮞ Generates random advice using the Advice Slip API
-
-⮞ Allows users to save and manage favorite advice using local storage
-
-⮞ Clean, intuitive interface with accessible navigation and clearly defined buttons
-
-⮞ Fully responsive across all devices
+- Generates random advice using the Advice Slip API
+- Allows users to save and manage favorite advice using local storage
+- Clean, intuitive interface with accessible navigation and clearly defined buttons
+- Fully responsive across all devices
 
 </div>
 <div>
@@ -203,7 +195,7 @@ Junior Frontend Developer focused on building mobile-first, responsive and user-
 <tr><td colspan="2"><br></td></tr>
  
 <tr>
-  <td width="40%">
+  <td width="43%">
     <a href="https://project-landing-pagee.netlify.app">
       <img src="assets/images/landing-page-preview.png" alt="Landing Page Preview" />
     </a>
@@ -214,13 +206,10 @@ Junior Frontend Developer focused on building mobile-first, responsive and user-
     </h3>
 <div>
 
-⮞ Developed according to Figma designs, the landing page unites resources and design experts
-
-⮞ User-focused, intuitive design
-
-⮞ Optimized the landing page for various screen sizes
-
-⮞ JavaScript will be integrated in future updates to improve interactivity and user experience
+- Developed according to Figma designs, the landing page unites resources and design experts
+- User-focused, intuitive design
+- Optimized the landing page for various screen sizes
+- JavaScript will be integrated in future updates to improve interactivity and user experience
 
 </div>
 <div>
